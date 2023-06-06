@@ -9,7 +9,7 @@ simply place the romfs of your choosing into the themes folder of your SD card
 ---
 
 ![Decked](<.images/decked-v01b.jpg>)
-[DarkPurple-v01b](https://github.com/sodasoba1/hbmenu-themes/blob/main/romfs/decked-v0.1b.romfs?raw=true)
+[Decked-v01b](https://github.com/sodasoba1/hbmenu-themes/blob/main/romfs/decked-v0.1b.romfs?raw=true)
 
 ---
 
