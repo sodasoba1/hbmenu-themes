@@ -5,6 +5,10 @@ simply place the romfs of your choosing into the themes folder of your SD card
 
 `sdmc:\config\nx-hbmenu\themes\`
 
+---
+
+![Lumia](<.images/Lumia-v02.jpg>)
+[Lumia-v02](https://github.com/sodasoba1/hbmenu-themes/blob/main/romfs/Lumia-v02.romfs?raw=true)
 
 ---
 
